@@ -1,0 +1,54 @@
+body{
+    position: relative;
+    left:35%;
+    align-items: center;
+    overflow-x: hidden;
+}
+
+div{
+    background-color:lightgray;
+    height:50px;
+    width:520px;
+    position: relative;
+    right:5%;
+}
+
+form{
+    position: inherit;
+    right:5%;
+}
+
+p{
+    position: relative;
+    top:20px;
+    display: inline;
+}
+
+
+
+.name{
+    width:500px;
+}
+
+.image{
+    width:400px;
+    height:400px;
+}
+
+.success{
+    width: 510px;
+    height:40px;
+    background-color: rgb(9, 194, 9);
+    border: none;
+    color:white;
+}
+
+.failure{
+    position: relative;
+    top:17px;
+    height:30px;
+    background-color: rgb(234, 46, 46);
+    color: white;
+    margin-right:340px;
+    border: none;
+}
